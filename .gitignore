@@ -1,6 +1,9 @@
 # Practice files
 *.ipynb
 
+# Config files
+config.py
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
